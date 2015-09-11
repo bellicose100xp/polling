@@ -1,0 +1,16 @@
+{
+  "name": "polling",
+  "version": "1.0.0",
+  "description": "Polling app build with react node express socket.io",
+  "main": "app-server.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bellicose Agnostic",
+  "license": "ISC"
+}
